@@ -1,0 +1,2 @@
+void gestionCommande();
+int nbrLignecm();
